@@ -14,3 +14,8 @@ All these prediction were made for India in the first week of may for the next 6
 
 ![recovery_rate](https://user-images.githubusercontent.com/40741861/98461326-45ed6780-21d1-11eb-8269-456e7538078e.png)
 
+## Death rate
+
+![death_rate](https://user-images.githubusercontent.com/40741861/98461454-37538000-21d2-11eb-921c-657269589fdd.png)
+
+
